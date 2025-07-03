@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am Adrien Gillmann, a **Full-stack Developer** at **[Resume link](https://www.self.so/adrien-gillmann)**.
+I am Adrien Gillmann, a **Full-stack Developer** **[Resume link](https://www.self.so/adrien-gillmann)**.
 
 
 Passionate about new technologies, I use my programming and design skills to create modern, secure and optimized web applications and websites. I am really enthusiastic about learning new technology and solve problems.
